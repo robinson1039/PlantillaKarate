@@ -1,0 +1,22 @@
+{
+  "name": "Nuevo Usuario",
+  "username": "nuevoUsuario",
+  "email": "nuevo.usuario@example.com",
+  "address": {
+    "street": "Fake St",
+    "suite": "Apt 1",
+    "city": "Fakecity",
+    "zipcode": "94101",
+    "geo": {
+      "lat": "-37.317",
+      "lng": "149.012"
+    }
+  },
+  "phone": "1-770-736-8031",
+  "website": "karian.net",
+  "company": {
+    "name": "Romaguera-Schmeler",
+    "catchPhrase": "Multi-tiered 6th generation focusgroup",
+    "bs": "markets"
+  }
+}
